@@ -1,0 +1,16 @@
+    node -v
+    node -help
+    npm install -g @angular/cli 
+    sudo npm install -g @angular/cli
+    ng -v
+    ng 
+    ng new ng7app
+    cd ng7app
+    ng -v
+    ng up @angular/cli
+    ng update @angular/cli
+    ng update @angular/core
+    ng install -g typescript 
+    npm install -g typescript 
+    sudo npm install -g typescript 
+    ng serve -o
